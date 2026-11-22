@@ -1,0 +1,17 @@
+{
+  "games": [
+    {
+      "id": "momimokey",
+      "title": "Mom I'm Okey",
+      "tagline": "Игра от L company",
+      "description": "Описание игры. Замени этот текст в файле games.json.",
+      "version": "2.0",
+      "versionCode": 1,
+      "package": "com.lcompany.momimokey",
+      "apk": "https://github.com/aleximperor3-arch/L-Games-Mobile/releases/download/momimokey-2.0/MomImOkey.apk",
+      "colors": ["#1d1b4d", "#7b3fe4"],
+      "genres": [],
+      "tags": []
+    }
+  ]
+}
